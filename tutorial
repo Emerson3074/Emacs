@@ -1,1 +1,27 @@
-ok
+C-g	---	stop a command which is taking too long to execute
+C-l	---	
+C-x 1	---	One window(i.e.,kill all other windows)
+C-h k C-f	--- display documentation on the C-f command
+C-d
+M-<DEL>
+M-d
+C-k
+M-k
+C-y
+M-y
+C-/
+C-_
+C-x u
+C-x C-b
+C-x b
+C-x s
+C-h m
+C-x 2
+C-x o
+C-x 4 C-f
+C-h c + command
+C-h k + command		get more information
+C-h f
+C-h v
+C-h a
+C-h r
